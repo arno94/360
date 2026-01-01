@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1000013407",
-      "name": "1000013407",
+      "name": "Nagyszoba",
       "levels": [
         {
           "tileSize": 256,
@@ -33,7 +33,7 @@ var APP_DATA = {
         {
           "yaw": 2.893911784388359,
           "pitch": -0.055560044064124625,
-          "title": "Szoba mérete",
+          "title": "pl infó buborék: Szoba mérete",
           "text": "3m x 5m"
         }
       ]
